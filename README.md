@@ -22,16 +22,6 @@
 - **M&A E-commerce Platform:** Developed the end-to-end flow for business acquisitions, from secure member registration to complex project management modules.
 - **Healthcare & Hospitality Solutions:** Architected APIs and maintained frontend interfaces for appointment scheduling and medical record tracking systems.
 
----
-
-### 📈 GitHub Insights
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hoang-Tien-2000&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoang-Tien-2000&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect with me
 - 📧 Email: [tienhv2204@gmail.com](mailto:tienhv2204@gmail.com)
 - 📞 Phone: (+84) 962 462 094
