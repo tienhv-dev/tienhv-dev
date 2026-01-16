@@ -1,4 +1,4 @@
-# Hi there, I'm Hoang Van Tien 👋
+# Hi there, I'm Hoang Tien 👋
 ### Full Stack Developer | Java, PHP (Laravel) & Modern Frontend
 ---
 
